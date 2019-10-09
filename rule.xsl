@@ -4,7 +4,7 @@
 <xsl:template match="/"> 
  <html> 
  <body> 
-  <h1 align="center">Students' Basic Details</h1> 
+  <h1>Students' Basic Details</h1> 
    <table border="3" align="center" > 
    <tr> 
     <th>Name</th> 
